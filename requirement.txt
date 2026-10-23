@@ -1,3 +1,8 @@
-Streamlit
-Pandas
-Ollama
+# Used to build the web app
+streamlit
+
+# Used to read and work with CSV data
+pandas
+
+# Used to connect to the Ollama AI model
+ollama
